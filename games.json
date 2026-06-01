@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "chibi-doll-coloring-dress-up",
+    "thumbnail": "https://retrogameloop.github.io/images/300.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "stickman-zombie-vs-stickman-hero",
+    "thumbnail": "https://retrogameloop.github.io/images/301.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "car-jam-traffic-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/302.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "desert-rover-survival",
+    "thumbnail": "https://retrogameloop.github.io/images/303.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "popping-sushi",
+    "thumbnail": "https://retrogameloop.github.io/images/304.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dog-merge-mania",
+    "thumbnail": "https://retrogameloop.github.io/images/305.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "cubes-2048io",
+    "thumbnail": "https://retrogameloop.github.io/images/306.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "mojicon-garden-jigsolitaire",
+    "thumbnail": "https://retrogameloop.github.io/images/307.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "sudoku-garden",
+    "thumbnail": "https://retrogameloop.github.io/images/308.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "sum-master",
+    "thumbnail": "https://retrogameloop.github.io/images/309.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "soo-match-room-design",
+    "thumbnail": "https://retrogameloop.github.io/images/310.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "claw-merge-labubu-drop",
+    "thumbnail": "https://retrogameloop.github.io/images/311.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "race-it-car-racing",
+    "thumbnail": "https://retrogameloop.github.io/images/312.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "russian-fishing-at-sea",
+    "thumbnail": "https://retrogameloop.github.io/images/313.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "snap-fix",
+    "thumbnail": "https://retrogameloop.github.io/images/314.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gas-station-stick-simulator",
+    "thumbnail": "https://retrogameloop.github.io/images/315.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pool-merge",
+    "thumbnail": "https://retrogameloop.github.io/images/316.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "last-ufo-defense",
+    "thumbnail": "https://retrogameloop.github.io/images/317.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "my-cake-shop-bake-serve",
+    "thumbnail": "https://retrogameloop.github.io/images/318.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "homerun-derby",
+    "thumbnail": "https://retrogameloop.github.io/images/319.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "pixel-destroyer",
+    "thumbnail": "https://retrogameloop.github.io/images/320.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "yarn-fever-unravel-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/321.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bbq-stack-run",
+    "thumbnail": "https://retrogameloop.github.io/images/322.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "kingdom-match",
+    "thumbnail": "https://retrogameloop.github.io/images/323.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "car-vs-zombies",
+    "thumbnail": "https://retrogameloop.github.io/images/324.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "draw-climber",
+    "thumbnail": "https://retrogameloop.github.io/images/325.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "draw-to-fly",
+    "thumbnail": "https://retrogameloop.github.io/images/326.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "vex-x3m-3",
+    "thumbnail": "https://retrogameloop.github.io/images/327.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "supermarket-shopping-for-kids",
+    "thumbnail": "https://retrogameloop.github.io/images/328.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "worm-apple-quest",
+    "thumbnail": "https://retrogameloop.github.io/images/329.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cake-merge",
+    "thumbnail": "https://retrogameloop.github.io/images/330.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "shot-can-wild",
+    "thumbnail": "https://retrogameloop.github.io/images/331.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "darts-jam",
+    "thumbnail": "https://retrogameloop.github.io/images/332.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "word-search-universe-2",
+    "thumbnail": "https://retrogameloop.github.io/images/333.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "fruite-swipe",
+    "thumbnail": "https://retrogameloop.github.io/images/334.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "snake-go-escape-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/335.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "superhero-escape-run-parkour-challenge",
+    "thumbnail": "https://retrogameloop.github.io/images/336.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "park-me-draw-path",
+    "thumbnail": "https://retrogameloop.github.io/images/337.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nuts-bolts-sort-color-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/338.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "memory-lane",
+    "thumbnail": "https://retrogameloop.github.io/images/339.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "water-sort-puzzle-3",
+    "thumbnail": "https://retrogameloop.github.io/images/340.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-smith",
+    "thumbnail": "https://retrogameloop.github.io/images/341.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "shanghai-town",
+    "thumbnail": "https://retrogameloop.github.io/images/342.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "obby-modes-online-mini-games",
+    "thumbnail": "https://retrogameloop.github.io/images/343.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "2-player-battle",
+    "thumbnail": "https://retrogameloop.github.io/images/344.webp",
+    "genre": "Battle, Boardgames"
+  },
+  {
+    "id": "tower-defenders",
+    "thumbnail": "https://retrogameloop.github.io/images/345.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "merge-heroes-titans",
+    "thumbnail": "https://retrogameloop.github.io/images/346.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "hook-pin-jam",
+    "thumbnail": "https://retrogameloop.github.io/images/347.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "parkour-block-7",
+    "thumbnail": "https://retrogameloop.github.io/images/348.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mr-long-legs",
+    "thumbnail": "https://retrogameloop.github.io/images/349.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "people-playground-ragdoll-arena",
+    "thumbnail": "https://retrogameloop.github.io/images/350.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "draw-bridge-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/351.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ultimate-tower-defense",
+    "thumbnail": "https://retrogameloop.github.io/images/352.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "match-dream-garden",
+    "thumbnail": "https://retrogameloop.github.io/images/353.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "the-kulka",
+    "thumbnail": "https://retrogameloop.github.io/images/354.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "snow-rider-obby-parkour",
+    "thumbnail": "https://retrogameloop.github.io/images/355.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "xmas-hexa-sort",
+    "thumbnail": "https://retrogameloop.github.io/images/356.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idol-livestream-doll-dress-up",
+    "thumbnail": "https://retrogameloop.github.io/images/357.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "arrow-count-master",
+    "thumbnail": "https://retrogameloop.github.io/images/358.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "paint-master",
+    "thumbnail": "https://retrogameloop.github.io/images/359.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "labubu-pop",
+    "thumbnail": "https://retrogameloop.github.io/images/360.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "hit-knock-down",
+    "thumbnail": "https://retrogameloop.github.io/images/361.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bento-match",
+    "thumbnail": "https://retrogameloop.github.io/images/362.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "shine-seek",
+    "thumbnail": "https://retrogameloop.github.io/images/363.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "find-the-frog-hidden-objects",
+    "thumbnail": "https://retrogameloop.github.io/images/364.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "arrow-wave",
+    "thumbnail": "https://retrogameloop.github.io/images/365.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "room-sort-floor-plan",
+    "thumbnail": "https://retrogameloop.github.io/images/366.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "dogs-vs-aliens",
+    "thumbnail": "https://retrogameloop.github.io/images/367.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "hero-rabbit-idle-survivor-rpg",
+    "thumbnail": "https://retrogameloop.github.io/images/368.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "sword-and-jewel",
+    "thumbnail": "https://retrogameloop.github.io/images/369.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "steal-brainrot-original-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/370.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "galactic-golf-solitaire",
+    "thumbnail": "https://retrogameloop.github.io/images/371.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "winter-tetrix-trails",
+    "thumbnail": "https://retrogameloop.github.io/images/372.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "ballerina-cappuccina-first-date",
+    "thumbnail": "https://retrogameloop.github.io/images/373.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mineblocks-3d-maze",
+    "thumbnail": "https://retrogameloop.github.io/images/374.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dynamons-12",
+    "thumbnail": "https://retrogameloop.github.io/images/375.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bubble-shooter-legend",
+    "thumbnail": "https://retrogameloop.github.io/images/376.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "real-street-fighter-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/377.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "the-sorting-mart",
+    "thumbnail": "https://retrogameloop.github.io/images/378.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pentaword",
+    "thumbnail": "https://retrogameloop.github.io/images/379.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "obby-rescue-pin",
+    "thumbnail": "https://retrogameloop.github.io/images/380.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-escapes-from-prison",
+    "thumbnail": "https://retrogameloop.github.io/images/381.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dino-egg-shooter",
+    "thumbnail": "https://retrogameloop.github.io/images/382.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "reach-2048",
+    "thumbnail": "https://retrogameloop.github.io/images/383.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "soccer-tournament",
+    "thumbnail": "https://retrogameloop.github.io/images/384.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "blocks-stack-rush",
+    "thumbnail": "https://retrogameloop.github.io/images/385.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "block-up",
+    "thumbnail": "https://retrogameloop.github.io/images/386.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "geometry-vibes-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/387.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cheerful-plumber",
+    "thumbnail": "https://retrogameloop.github.io/images/388.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "superhero-phone-simulator",
+    "thumbnail": "https://retrogameloop.github.io/images/389.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ice-skating-ballerina",
+    "thumbnail": "https://retrogameloop.github.io/images/390.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "neon-blast",
+    "thumbnail": "https://retrogameloop.github.io/images/391.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "elite-chess",
+    "thumbnail": "https://retrogameloop.github.io/images/392.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "boxteria",
+    "thumbnail": "https://retrogameloop.github.io/images/393.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "echolocation-shooter",
+    "thumbnail": "https://retrogameloop.github.io/images/394.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "jump-to-the-mountain-for-the-brainrots",
+    "thumbnail": "https://retrogameloop.github.io/images/395.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pixel-mini-golf",
+    "thumbnail": "https://retrogameloop.github.io/images/396.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "hero-merge",
+    "thumbnail": "https://retrogameloop.github.io/images/397.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rpg-idle-clicker",
+    "thumbnail": "https://retrogameloop.github.io/images/398.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "anime-couple-avatar-maker",
+    "thumbnail": "https://retrogameloop.github.io/images/399.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "office-spider-solitaire",
+    "thumbnail": "https://retrogameloop.github.io/images/400.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "snake-king",
+    "thumbnail": "https://retrogameloop.github.io/images/401.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "billiard-diamond-challenge",
+    "thumbnail": "https://retrogameloop.github.io/images/402.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "lovie-chics-coachella-festival",
+    "thumbnail": "https://retrogameloop.github.io/images/403.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "frogio",
+    "thumbnail": "https://retrogameloop.github.io/images/404.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "animal-in-rails",
+    "thumbnail": "https://retrogameloop.github.io/images/405.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "spinning-uia-uia-cat-bricker",
+    "thumbnail": "https://retrogameloop.github.io/images/406.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "frost-land-snow-survival",
+    "thumbnail": "https://retrogameloop.github.io/images/407.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "candy-jewels",
+    "thumbnail": "https://retrogameloop.github.io/images/408.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "magic-tri-peaks-solitaire",
+    "thumbnail": "https://retrogameloop.github.io/images/409.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cloneup-stack-yourself",
+    "thumbnail": "https://retrogameloop.github.io/images/410.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "flag-puzzle-jam-collect-flags",
+    "thumbnail": "https://retrogameloop.github.io/images/411.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sniper-master",
+    "thumbnail": "https://retrogameloop.github.io/images/412.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "rooftop-run",
+    "thumbnail": "https://retrogameloop.github.io/images/413.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stick-fight-the-chaos",
+    "thumbnail": "https://retrogameloop.github.io/images/414.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "noob-village-tower-defense",
+    "thumbnail": "https://retrogameloop.github.io/images/415.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "celebrity-aesthetic-challenge",
+    "thumbnail": "https://retrogameloop.github.io/images/416.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "valentines-day-couple-date",
+    "thumbnail": "https://retrogameloop.github.io/images/417.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "student-and-teacher",
+    "thumbnail": "https://retrogameloop.github.io/images/418.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "block-puzzle-frozen-jewel",
+    "thumbnail": "https://retrogameloop.github.io/images/419.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tsunami-race",
+    "thumbnail": "https://retrogameloop.github.io/images/420.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "stickman-punishment",
+    "thumbnail": "https://retrogameloop.github.io/images/421.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "daily-solitaire-mahjong-classic",
+    "thumbnail": "https://retrogameloop.github.io/images/422.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "hide-and-seek-horror-escape",
+    "thumbnail": "https://retrogameloop.github.io/images/423.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "atomic-merge-2048",
+    "thumbnail": "https://retrogameloop.github.io/images/424.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "special-holiday-solitaire",
+    "thumbnail": "https://retrogameloop.github.io/images/425.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "madness-cars-destroy",
+    "thumbnail": "https://retrogameloop.github.io/images/426.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ellie-and-friends-venice-carnival",
+    "thumbnail": "https://retrogameloop.github.io/images/427.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cooking-empire",
+    "thumbnail": "https://retrogameloop.github.io/images/428.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "strawberry-shortcake-boardgames",
+    "thumbnail": "https://retrogameloop.github.io/images/429.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "cleaning-princess",
+    "thumbnail": "https://retrogameloop.github.io/images/430.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "chicken-banana-quest",
+    "thumbnail": "https://retrogameloop.github.io/images/431.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "zombie-idle-defense",
+    "thumbnail": "https://retrogameloop.github.io/images/432.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "bubble-sky",
+    "thumbnail": "https://retrogameloop.github.io/images/433.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "online-car-destruction-simulator-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/434.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "strategy-of-war-tanks-and-helicopters",
+    "thumbnail": "https://retrogameloop.github.io/images/435.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "countryside-driving-quest",
+    "thumbnail": "https://retrogameloop.github.io/images/436.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "dragon-hunter",
+    "thumbnail": "https://retrogameloop.github.io/images/437.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "animal-block-pop-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/438.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "skillful-finger",
+    "thumbnail": "https://retrogameloop.github.io/images/439.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "sprunki",
+    "thumbnail": "https://retrogameloop.github.io/images/440.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "italian-brainrot-in-geometry-dash",
+    "thumbnail": "https://retrogameloop.github.io/images/441.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "fairy-wingerella",
+    "thumbnail": "https://retrogameloop.github.io/images/442.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "shipbuilding-tycoon",
+    "thumbnail": "https://retrogameloop.github.io/images/443.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "jennys-math-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/444.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "wave-road-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/445.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mojicon-emoji-connect",
+    "thumbnail": "https://retrogameloop.github.io/images/446.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "solitaire-emperor-secrets-of-fate",
+    "thumbnail": "https://retrogameloop.github.io/images/447.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "axe-throw",
+    "thumbnail": "https://retrogameloop.github.io/images/448.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "extreme-real-car-driving-2025",
+    "thumbnail": "https://retrogameloop.github.io/images/449.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "merge-brainrot",
+    "thumbnail": "https://retrogameloop.github.io/images/450.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "geometry-open-world",
+    "thumbnail": "https://retrogameloop.github.io/images/451.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "toilet-time",
+    "thumbnail": "https://retrogameloop.github.io/images/452.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "1945-air-force-airplane",
+    "thumbnail": "https://retrogameloop.github.io/images/453.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "merge-car-defense",
+    "thumbnail": "https://retrogameloop.github.io/images/454.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "quizmania-trivia-game",
+    "thumbnail": "https://retrogameloop.github.io/images/455.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "merge-the-coins-ussr",
+    "thumbnail": "https://retrogameloop.github.io/images/456.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "master-blender",
+    "thumbnail": "https://retrogameloop.github.io/images/457.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "frost-defense",
+    "thumbnail": "https://retrogameloop.github.io/images/458.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "puzzle-blocks-asmr-match",
+    "thumbnail": "https://retrogameloop.github.io/images/459.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fill-one-line",
+    "thumbnail": "https://retrogameloop.github.io/images/460.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "horror-forest-bear",
+    "thumbnail": "https://retrogameloop.github.io/images/461.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "draw-weapon-fight-party",
+    "thumbnail": "https://retrogameloop.github.io/images/462.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "survival-sword-battle",
+    "thumbnail": "https://retrogameloop.github.io/images/463.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "sword-and-spin",
+    "thumbnail": "https://retrogameloop.github.io/images/464.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "parking-master-urban-challenges",
+    "thumbnail": "https://retrogameloop.github.io/images/465.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "javelin-battle",
+    "thumbnail": "https://retrogameloop.github.io/images/466.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nubik-in-the-monster-world",
+    "thumbnail": "https://retrogameloop.github.io/images/467.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "ng-flow-lines",
+    "thumbnail": "https://retrogameloop.github.io/images/468.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "flip-it-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/469.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "checkers",
+    "thumbnail": "https://retrogameloop.github.io/images/470.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gas-station-junkyard-tycoon",
+    "thumbnail": "https://retrogameloop.github.io/images/471.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "obby-gym-simulator-escape",
+    "thumbnail": "https://retrogameloop.github.io/images/472.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "cool-supercars-stunts-pvp",
+    "thumbnail": "https://retrogameloop.github.io/images/473.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "mini-games-puzzle-collection",
+    "thumbnail": "https://retrogameloop.github.io/images/474.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tricky-life",
+    "thumbnail": "https://retrogameloop.github.io/images/475.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ball-craze-sort",
+    "thumbnail": "https://retrogameloop.github.io/images/476.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "capybara-jump",
+    "thumbnail": "https://retrogameloop.github.io/images/477.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "flower-block",
+    "thumbnail": "https://retrogameloop.github.io/images/478.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "black-pink-stpatricks-day-concert",
+    "thumbnail": "https://retrogameloop.github.io/images/479.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "we-will-not-survive",
+    "thumbnail": "https://retrogameloop.github.io/images/480.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "daring-jack",
+    "thumbnail": "https://retrogameloop.github.io/images/481.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "cat-escape",
+    "thumbnail": "https://retrogameloop.github.io/images/482.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "code-maze",
+    "thumbnail": "https://retrogameloop.github.io/images/483.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "twisted-rope",
+    "thumbnail": "https://retrogameloop.github.io/images/484.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sniping-aliens",
+    "thumbnail": "https://retrogameloop.github.io/images/485.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "police-chase-drifter",
+    "thumbnail": "https://retrogameloop.github.io/images/486.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "dino-survival-3d-simulator",
+    "thumbnail": "https://retrogameloop.github.io/images/487.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "classic-mahjong",
+    "thumbnail": "https://retrogameloop.github.io/images/488.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "farm-defense",
+    "thumbnail": "https://retrogameloop.github.io/images/489.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hero-fight-clash",
+    "thumbnail": "https://retrogameloop.github.io/images/490.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "donut-run",
+    "thumbnail": "https://retrogameloop.github.io/images/491.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jello-bubbles",
+    "thumbnail": "https://retrogameloop.github.io/images/492.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "blocks-breaker",
+    "thumbnail": "https://retrogameloop.github.io/images/493.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-sort-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/494.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "car-parking-master-3d-real-driving-simulator",
+    "thumbnail": "https://retrogameloop.github.io/images/495.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "hydraulic-press-2d-asmr",
+    "thumbnail": "https://retrogameloop.github.io/images/496.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "get-a-cool-gun",
+    "thumbnail": "https://retrogameloop.github.io/images/497.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "emoji-guess",
+    "thumbnail": "https://retrogameloop.github.io/images/498.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "halloween-match-trio",
+    "thumbnail": "https://retrogameloop.github.io/images/499.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "arrow-out-and-linker",
+    "thumbnail": "https://retrogameloop.github.io/images/500.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "epic-car-stunt-race-obby",
+    "thumbnail": "https://retrogameloop.github.io/images/501.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "heroic-knight",
+    "thumbnail": "https://retrogameloop.github.io/images/502.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "light-line",
+    "thumbnail": "https://retrogameloop.github.io/images/503.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zombie-horde-build-survive",
+    "thumbnail": "https://retrogameloop.github.io/images/504.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "thumbpinball",
+    "thumbnail": "https://retrogameloop.github.io/images/505.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spooky-link",
+    "thumbnail": "https://retrogameloop.github.io/images/506.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "cars-merge",
+    "thumbnail": "https://retrogameloop.github.io/images/507.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "g-wagon-city-driver",
+    "thumbnail": "https://retrogameloop.github.io/images/508.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "grannys-classroom-nightmare",
+    "thumbnail": "https://retrogameloop.github.io/images/509.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "king-of-crabs",
+    "thumbnail": "https://retrogameloop.github.io/images/510.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stick-hero-fight",
+    "thumbnail": "https://retrogameloop.github.io/images/511.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "starry-style-dorama-of-dream",
+    "thumbnail": "https://retrogameloop.github.io/images/512.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mahjong-lines",
+    "thumbnail": "https://retrogameloop.github.io/images/513.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "cool-man",
+    "thumbnail": "https://retrogameloop.github.io/images/514.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "67-clicker",
+    "thumbnail": "https://retrogameloop.github.io/images/515.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "daily-jewels-blitz-mahjong",
+    "thumbnail": "https://retrogameloop.github.io/images/516.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "super-tank-hero",
+    "thumbnail": "https://retrogameloop.github.io/images/517.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "ninja-crossword-challenge",
+    "thumbnail": "https://retrogameloop.github.io/images/518.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wordmeister-hd",
+    "thumbnail": "https://retrogameloop.github.io/images/519.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "racing-car-destroying-zombie",
+    "thumbnail": "https://retrogameloop.github.io/images/520.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "connect-em-all",
+    "thumbnail": "https://retrogameloop.github.io/images/521.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "words-with-prof-wisely",
+    "thumbnail": "https://retrogameloop.github.io/images/522.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "building-mods-for-minecraft",
+    "thumbnail": "https://retrogameloop.github.io/images/523.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "run-from-baba-yaga",
+    "thumbnail": "https://retrogameloop.github.io/images/524.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "association-connect-word",
+    "thumbnail": "https://retrogameloop.github.io/images/525.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "time-shooter-2",
+    "thumbnail": "https://retrogameloop.github.io/images/526.webp",
+    "genre": "Unblocked, WebGame"
+  },
+  {
+    "id": "tail-gun-charlie",
+    "thumbnail": "https://retrogameloop.github.io/images/527.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "3d-ball-balancer",
+    "thumbnail": "https://retrogameloop.github.io/images/528.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "taxi-driver-simulator",
+    "thumbnail": "https://retrogameloop.github.io/images/529.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "traffic-light-simulator-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/530.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "money-ping-pong",
+    "thumbnail": "https://retrogameloop.github.io/images/531.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "paperwario",
+    "thumbnail": "https://retrogameloop.github.io/images/532.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "bus-driver",
+    "thumbnail": "https://retrogameloop.github.io/images/533.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "eat-and-grow-fish",
+    "thumbnail": "https://retrogameloop.github.io/images/534.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "end-of-world",
+    "thumbnail": "https://retrogameloop.github.io/images/535.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "live-star-doll-dress-up",
+    "thumbnail": "https://retrogameloop.github.io/images/536.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "death-ball",
+    "thumbnail": "https://retrogameloop.github.io/images/537.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "bubble-mania-shooter",
+    "thumbnail": "https://retrogameloop.github.io/images/538.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "amazing-airplane-racer",
+    "thumbnail": "https://retrogameloop.github.io/images/539.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "asmr-water-vs-fire",
+    "thumbnail": "https://retrogameloop.github.io/images/540.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "office-pyramid-solitaire",
+    "thumbnail": "https://retrogameloop.github.io/images/541.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "whats-grandma-hiding",
+    "thumbnail": "https://retrogameloop.github.io/images/542.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "free-hoops",
+    "thumbnail": "https://retrogameloop.github.io/images/543.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sprunki-puzzles-and-singing",
+    "thumbnail": "https://retrogameloop.github.io/images/544.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "snake-puzzle-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/545.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "rich-choice-run",
+    "thumbnail": "https://retrogameloop.github.io/images/546.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pop-adventure",
+    "thumbnail": "https://retrogameloop.github.io/images/547.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "stickman-dinosaur-arena",
+    "thumbnail": "https://retrogameloop.github.io/images/548.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mona-lisa-fashion-experiments",
+    "thumbnail": "https://retrogameloop.github.io/images/549.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "thread-sort",
+    "thumbnail": "https://retrogameloop.github.io/images/550.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ramp-car-jumping",
+    "thumbnail": "https://retrogameloop.github.io/images/551.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "offroad-island",
+    "thumbnail": "https://retrogameloop.github.io/images/552.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "sneaker-factory",
+    "thumbnail": "https://retrogameloop.github.io/images/553.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "stack-n-sort",
+    "thumbnail": "https://retrogameloop.github.io/images/554.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "aventador-vice-crime-city",
+    "thumbnail": "https://retrogameloop.github.io/images/555.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "the-prism-city-detectives",
+    "thumbnail": "https://retrogameloop.github.io/images/556.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "sticker-book-puzzle-color-by-number",
+    "thumbnail": "https://retrogameloop.github.io/images/557.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hidden-pairs-mahjong",
+    "thumbnail": "https://retrogameloop.github.io/images/558.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "toco-teens-halloween-party",
+    "thumbnail": "https://retrogameloop.github.io/images/559.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "block-escape",
+    "thumbnail": "https://retrogameloop.github.io/images/560.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "the-branch-runner",
+    "thumbnail": "https://retrogameloop.github.io/images/561.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "nose-hospital",
+    "thumbnail": "https://retrogameloop.github.io/images/562.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "merge-cube-challenge",
+    "thumbnail": "https://retrogameloop.github.io/images/563.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "domino-adventure",
+    "thumbnail": "https://retrogameloop.github.io/images/564.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "color-strings",
+    "thumbnail": "https://retrogameloop.github.io/images/565.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "emoji-frenzy",
+    "thumbnail": "https://retrogameloop.github.io/images/566.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "magic-bottles",
+    "thumbnail": "https://retrogameloop.github.io/images/567.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "4-colors-card-mania",
+    "thumbnail": "https://retrogameloop.github.io/images/568.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "looper",
+    "thumbnail": "https://retrogameloop.github.io/images/569.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ultra-realistic-blockcraft",
+    "thumbnail": "https://retrogameloop.github.io/images/570.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "angry-flappy",
+    "thumbnail": "https://retrogameloop.github.io/images/571.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "pirates-mahjong",
+    "thumbnail": "https://retrogameloop.github.io/images/572.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "memoji",
+    "thumbnail": "https://retrogameloop.github.io/images/573.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "speed-run-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/574.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "color-dots-challenge",
+    "thumbnail": "https://retrogameloop.github.io/images/575.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "blastify-ii",
+    "thumbnail": "https://retrogameloop.github.io/images/576.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cat-match-3",
+    "thumbnail": "https://retrogameloop.github.io/images/577.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "teardown-destruction-sandbox",
+    "thumbnail": "https://retrogameloop.github.io/images/578.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "king-kong-chaos",
+    "thumbnail": "https://retrogameloop.github.io/images/579.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "madness-driver-vertigo-city",
+    "thumbnail": "https://retrogameloop.github.io/images/580.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "gt-cars-mega-ramps",
+    "thumbnail": "https://retrogameloop.github.io/images/581.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "321-choose-the-different",
+    "thumbnail": "https://retrogameloop.github.io/images/582.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crab-guards",
+    "thumbnail": "https://retrogameloop.github.io/images/583.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "eye-attack-toilet-monster-war",
+    "thumbnail": "https://retrogameloop.github.io/images/584.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "master-addiction-solitaire",
+    "thumbnail": "https://retrogameloop.github.io/images/585.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "robot-band-find-the-differences",
+    "thumbnail": "https://retrogameloop.github.io/images/586.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hole-battleio",
+    "thumbnail": "https://retrogameloop.github.io/images/587.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "hexa-sort-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/588.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "crazy-hill-climbing",
+    "thumbnail": "https://retrogameloop.github.io/images/589.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "super-star-animal-salon",
+    "thumbnail": "https://retrogameloop.github.io/images/590.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "plants-warfare",
+    "thumbnail": "https://retrogameloop.github.io/images/591.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "hydro-racing-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/592.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "packing-line",
+    "thumbnail": "https://retrogameloop.github.io/images/593.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zip-zap",
+    "thumbnail": "https://retrogameloop.github.io/images/594.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "italian-brainrot-quiz",
+    "thumbnail": "https://retrogameloop.github.io/images/595.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "stealth-master-sneak-cat",
+    "thumbnail": "https://retrogameloop.github.io/images/596.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "horror-hotel-scary-room",
+    "thumbnail": "https://retrogameloop.github.io/images/597.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "basketball-rush",
+    "thumbnail": "https://retrogameloop.github.io/images/598.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "office-solitaire",
+    "thumbnail": "https://retrogameloop.github.io/images/599.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "color-tap-coloring-by-numbers",
+    "thumbnail": "https://retrogameloop.github.io/images/600.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-magnat-ideal-store",
+    "thumbnail": "https://retrogameloop.github.io/images/601.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mr-bean-jump",
+    "thumbnail": "https://retrogameloop.github.io/images/602.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "shell-strikers",
+    "thumbnail": "https://retrogameloop.github.io/images/603.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "traffic-run-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/604.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ultimate-plants-td",
+    "thumbnail": "https://retrogameloop.github.io/images/605.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "word-game-2026",
+    "thumbnail": "https://retrogameloop.github.io/images/606.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "brainrot-mega-parkour",
+    "thumbnail": "https://retrogameloop.github.io/images/607.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "only-up-balls",
+    "thumbnail": "https://retrogameloop.github.io/images/608.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "hidden-object-rooms-exploration",
+    "thumbnail": "https://retrogameloop.github.io/images/609.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "hexa-sort-master",
+    "thumbnail": "https://retrogameloop.github.io/images/610.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "school-simulator-my-school",
+    "thumbnail": "https://retrogameloop.github.io/images/611.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "backrooms",
+    "thumbnail": "https://retrogameloop.github.io/images/612.webp",
+    "genre": "Puzzle, Battle"
+  },
+  {
+    "id": "geometry-vibes-monster",
+    "thumbnail": "https://retrogameloop.github.io/images/613.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "k-pop-hunter-halloween-fashion",
+    "thumbnail": "https://retrogameloop.github.io/images/614.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "fireboy-watergirl-7-and-friends",
+    "thumbnail": "https://retrogameloop.github.io/images/615.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "block-dodger",
+    "thumbnail": "https://retrogameloop.github.io/images/616.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "air-strike-2d",
+    "thumbnail": "https://retrogameloop.github.io/images/617.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "genfire",
+    "thumbnail": "https://retrogameloop.github.io/images/618.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "energy-clicker",
+    "thumbnail": "https://retrogameloop.github.io/images/619.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ragdoll-mega-dunk",
+    "thumbnail": "https://retrogameloop.github.io/images/620.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "merge-gun-fps-shooting-zombie",
+    "thumbnail": "https://retrogameloop.github.io/images/621.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "golf-mini",
+    "thumbnail": "https://retrogameloop.github.io/images/622.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "block-combo-blast",
+    "thumbnail": "https://retrogameloop.github.io/images/623.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "labubu-doll-mukbang-asmr-unblocked",
+    "thumbnail": "https://retrogameloop.github.io/images/624.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sand-blast-block-game",
+    "thumbnail": "https://retrogameloop.github.io/images/625.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "match-ten-number-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/626.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-champions",
+    "thumbnail": "https://retrogameloop.github.io/images/627.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "relay-race",
+    "thumbnail": "https://retrogameloop.github.io/images/628.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "lollipop-stack-run",
+    "thumbnail": "https://retrogameloop.github.io/images/629.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-lost-city-match-3",
+    "thumbnail": "https://retrogameloop.github.io/images/630.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "human-evolution-run",
+    "thumbnail": "https://retrogameloop.github.io/images/631.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "doggo-jump",
+    "thumbnail": "https://retrogameloop.github.io/images/632.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-masters",
+    "thumbnail": "https://retrogameloop.github.io/images/633.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "home-design-small-house",
+    "thumbnail": "https://retrogameloop.github.io/images/634.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "english-checkers",
+    "thumbnail": "https://retrogameloop.github.io/images/635.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "racing-island",
+    "thumbnail": "https://retrogameloop.github.io/images/636.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "traffic-escape-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/637.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "only-up",
+    "thumbnail": "https://retrogameloop.github.io/images/638.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "legend-of-dragon-hunt",
+    "thumbnail": "https://retrogameloop.github.io/images/639.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "portal-hop",
+    "thumbnail": "https://retrogameloop.github.io/images/640.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brawl-stars-sound",
+    "thumbnail": "https://retrogameloop.github.io/images/641.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "candy-carver",
+    "thumbnail": "https://retrogameloop.github.io/images/642.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "obby-toilet-line",
+    "thumbnail": "https://retrogameloop.github.io/images/643.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "drunk-but-not-wasted-knight",
+    "thumbnail": "https://retrogameloop.github.io/images/644.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fix-the-hoof",
+    "thumbnail": "https://retrogameloop.github.io/images/645.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "football-stars-championship",
+    "thumbnail": "https://retrogameloop.github.io/images/646.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "noobhood-halloweencraft",
+    "thumbnail": "https://retrogameloop.github.io/images/647.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "emoji-sort-fun-puzzle-game",
+    "thumbnail": "https://retrogameloop.github.io/images/648.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "army-truck-driver-online",
+    "thumbnail": "https://retrogameloop.github.io/images/649.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "fishing-life",
+    "thumbnail": "https://retrogameloop.github.io/images/650.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "my-castle-merge-story",
+    "thumbnail": "https://retrogameloop.github.io/images/651.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "fire-truck-driving-simulator",
+    "thumbnail": "https://retrogameloop.github.io/images/652.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "drive-race-crash",
+    "thumbnail": "https://retrogameloop.github.io/images/653.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "prison-escape-online",
+    "thumbnail": "https://retrogameloop.github.io/images/654.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "nitro-speed-car-racing",
+    "thumbnail": "https://retrogameloop.github.io/images/655.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "sea-monsters-mahjong",
+    "thumbnail": "https://retrogameloop.github.io/images/656.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "royal-pin",
+    "thumbnail": "https://retrogameloop.github.io/images/657.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "crazy-plane-landing",
+    "thumbnail": "https://retrogameloop.github.io/images/658.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "submarine-attack",
+    "thumbnail": "https://retrogameloop.github.io/images/659.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "texas-holdem-poker",
+    "thumbnail": "https://retrogameloop.github.io/images/660.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "cat-escape-hide-and-seek",
+    "thumbnail": "https://retrogameloop.github.io/images/661.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "block-blaster-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/662.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ride-shooter",
+    "thumbnail": "https://retrogameloop.github.io/images/663.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "vegamix-da-vinci-puzzles",
+    "thumbnail": "https://retrogameloop.github.io/images/664.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "worm-escape",
+    "thumbnail": "https://retrogameloop.github.io/images/665.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-jump",
+    "thumbnail": "https://retrogameloop.github.io/images/666.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jewel-link",
+    "thumbnail": "https://retrogameloop.github.io/images/667.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "cuddle-monster-fusion",
+    "thumbnail": "https://retrogameloop.github.io/images/668.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fruit-goals-match",
+    "thumbnail": "https://retrogameloop.github.io/images/669.webp",
+    "genre": "Agility, Match-3"
+  },
+  {
+    "id": "digital-circus-io",
+    "thumbnail": "https://retrogameloop.github.io/images/670.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "pictures-riddle",
+    "thumbnail": "https://retrogameloop.github.io/images/671.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "crazy-zoo-swipe-match-3-puzzle-game",
+    "thumbnail": "https://retrogameloop.github.io/images/672.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cooking-stories-fun-cafe-game",
+    "thumbnail": "https://retrogameloop.github.io/images/673.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "cute-relaxing-matching-3-tiles",
+    "thumbnail": "https://retrogameloop.github.io/images/674.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pushio",
+    "thumbnail": "https://retrogameloop.github.io/images/675.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "dont-tap",
+    "thumbnail": "https://retrogameloop.github.io/images/676.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cat-life-merge-money",
+    "thumbnail": "https://retrogameloop.github.io/images/677.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "polytrack",
+    "thumbnail": "https://retrogameloop.github.io/images/678.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "office-escape-to-date",
+    "thumbnail": "https://retrogameloop.github.io/images/679.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "coe-rabbit",
+    "thumbnail": "https://retrogameloop.github.io/images/680.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "power-light",
+    "thumbnail": "https://retrogameloop.github.io/images/681.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bouncy-bomb-buddies",
+    "thumbnail": "https://retrogameloop.github.io/images/682.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "merge-blocks-2048",
+    "thumbnail": "https://retrogameloop.github.io/images/683.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "wheel-in-the-face",
+    "thumbnail": "https://retrogameloop.github.io/images/684.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "elemental-dressup-magic",
+    "thumbnail": "https://retrogameloop.github.io/images/685.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cube-drop-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/686.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jetpack-jump",
+    "thumbnail": "https://retrogameloop.github.io/images/687.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "skibidi-toilet-vs-cameraman-sniper-game",
+    "thumbnail": "https://retrogameloop.github.io/images/688.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "frogtastic-marble-adventure",
+    "thumbnail": "https://retrogameloop.github.io/images/689.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "crazy-bike-stunts-pvp",
+    "thumbnail": "https://retrogameloop.github.io/images/690.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "alchemy-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/691.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pizza-tycoon",
+    "thumbnail": "https://retrogameloop.github.io/images/692.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "crazyzombies-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/693.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "escape-ancient-egypt",
+    "thumbnail": "https://retrogameloop.github.io/images/694.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "roblo-x-zombie",
+    "thumbnail": "https://retrogameloop.github.io/images/695.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "puzzle-wood-block",
+    "thumbnail": "https://retrogameloop.github.io/images/696.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "trading-games-playtime",
+    "thumbnail": "https://retrogameloop.github.io/images/697.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "shoot-run-monster-hunting",
+    "thumbnail": "https://retrogameloop.github.io/images/698.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "las-vegas-poker",
+    "thumbnail": "https://retrogameloop.github.io/images/699.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "tile-match-connect-3-tiles",
+    "thumbnail": "https://retrogameloop.github.io/images/700.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "mma-super-fight",
+    "thumbnail": "https://retrogameloop.github.io/images/701.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "float-for-brainrots",
+    "thumbnail": "https://retrogameloop.github.io/images/702.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "eq-test-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/703.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fashionista-christmas-eve-party",
+    "thumbnail": "https://retrogameloop.github.io/images/704.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "gt-drift-most-wanted",
+    "thumbnail": "https://retrogameloop.github.io/images/705.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "imposter-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/706.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "count-masters-superhero",
+    "thumbnail": "https://retrogameloop.github.io/images/707.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "wood-block-puzzle-3",
+    "thumbnail": "https://retrogameloop.github.io/images/708.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cake-sort",
+    "thumbnail": "https://retrogameloop.github.io/images/709.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mad-dash",
+    "thumbnail": "https://retrogameloop.github.io/images/710.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "tropical-cubes-2048",
+    "thumbnail": "https://retrogameloop.github.io/images/711.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "leap-and-avoid-2",
+    "thumbnail": "https://retrogameloop.github.io/images/712.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "my-fire-station-world",
+    "thumbnail": "https://retrogameloop.github.io/images/713.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cs-command-snipers",
+    "thumbnail": "https://retrogameloop.github.io/images/714.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "goo-slime-jump",
+    "thumbnail": "https://retrogameloop.github.io/images/715.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "landmine-cube",
+    "thumbnail": "https://retrogameloop.github.io/images/716.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "noob-jailbreak-2",
+    "thumbnail": "https://retrogameloop.github.io/images/717.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "fruit-merge-arena",
+    "thumbnail": "https://retrogameloop.github.io/images/718.webp",
+    "genre": "Simulation, Merge"
+  },
+  {
+    "id": "offroad-muddy-trucks",
+    "thumbnail": "https://retrogameloop.github.io/images/719.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "cake-link-master",
+    "thumbnail": "https://retrogameloop.github.io/images/720.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "hero-story-monsters-crossing",
+    "thumbnail": "https://retrogameloop.github.io/images/721.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "the-drag-racing-challenge",
+    "thumbnail": "https://retrogameloop.github.io/images/722.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "football-penalty",
+    "thumbnail": "https://retrogameloop.github.io/images/723.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "labubu-adventure",
+    "thumbnail": "https://retrogameloop.github.io/images/724.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "sort-parking",
+    "thumbnail": "https://retrogameloop.github.io/images/725.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ants-party",
+    "thumbnail": "https://retrogameloop.github.io/images/726.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mega-escape-car-parking-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/727.webp",
+    "genre": "Puzzle, .IO"
+  },
+  {
+    "id": "gunfu-stickman-2",
+    "thumbnail": "https://retrogameloop.github.io/images/728.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "tile-match-the-immersive-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/729.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "tank-sniper-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/730.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "flight-sim-air-traffic-control",
+    "thumbnail": "https://retrogameloop.github.io/images/731.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "mystical-blade-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/732.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "hidden-objects-island-secrets",
+    "thumbnail": "https://retrogameloop.github.io/images/733.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fish-story-4",
+    "thumbnail": "https://retrogameloop.github.io/images/734.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "imposter-coloring-book",
+    "thumbnail": "https://retrogameloop.github.io/images/735.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "sort-my-parking-area",
+    "thumbnail": "https://retrogameloop.github.io/images/736.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "chroma-tower",
+    "thumbnail": "https://retrogameloop.github.io/images/737.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sokoban-push-the-box",
+    "thumbnail": "https://retrogameloop.github.io/images/738.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "2048-block-fusion",
+    "thumbnail": "https://retrogameloop.github.io/images/739.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "freecell",
+    "thumbnail": "https://retrogameloop.github.io/images/740.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "royal-crown-blast",
+    "thumbnail": "https://retrogameloop.github.io/images/741.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "revoxel-3d-voxel-rpg-shooter",
+    "thumbnail": "https://retrogameloop.github.io/images/742.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "barrel-roller-amazing-runner",
+    "thumbnail": "https://retrogameloop.github.io/images/743.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pop-culture-halloween-makeup",
+    "thumbnail": "https://retrogameloop.github.io/images/744.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "real-motorbike-super-hero-stunt-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/745.webp",
+    "genre": "Racing & Driving, .IO"
+  },
+  {
+    "id": "shoot-2048-hexa",
+    "thumbnail": "https://retrogameloop.github.io/images/746.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "triple-cups",
+    "thumbnail": "https://retrogameloop.github.io/images/747.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-fruit-time",
+    "thumbnail": "https://retrogameloop.github.io/images/748.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "solitaire-klondike-eternal-russian-classic",
+    "thumbnail": "https://retrogameloop.github.io/images/749.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "acox-runner",
+    "thumbnail": "https://retrogameloop.github.io/images/750.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fruitsland-escape-from-the-amusement-park",
+    "thumbnail": "https://retrogameloop.github.io/images/751.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "idle-pop-merge",
+    "thumbnail": "https://retrogameloop.github.io/images/752.webp",
+    "genre": "Shooter, Merge"
+  },
+  {
+    "id": "war-of-gun",
+    "thumbnail": "https://retrogameloop.github.io/images/753.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "mermaids-spot-the-differences",
+    "thumbnail": "https://retrogameloop.github.io/images/754.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "smash-defense",
+    "thumbnail": "https://retrogameloop.github.io/images/755.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "simon-super-rabbit",
+    "thumbnail": "https://retrogameloop.github.io/images/756.webp",
+    "genre": "Adventure, Educational"
+  },
+  {
+    "id": "paint-sponges-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/757.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sheep-vs-wolf",
+    "thumbnail": "https://retrogameloop.github.io/images/758.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "summon-tribe",
+    "thumbnail": "https://retrogameloop.github.io/images/759.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "tic-tac-toe-merge",
+    "thumbnail": "https://retrogameloop.github.io/images/760.webp",
+    "genre": "Boardgames, Merge"
+  },
+  {
+    "id": "beach-soccer",
+    "thumbnail": "https://retrogameloop.github.io/images/761.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "rainbow-balls-2048",
+    "thumbnail": "https://retrogameloop.github.io/images/762.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cannon-merge",
+    "thumbnail": "https://retrogameloop.github.io/images/763.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "stickman-mega-boss-battles",
+    "thumbnail": "https://retrogameloop.github.io/images/764.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "find-it-fast",
+    "thumbnail": "https://retrogameloop.github.io/images/765.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "lava-jump",
+    "thumbnail": "https://retrogameloop.github.io/images/766.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "screw-puzzle-master",
+    "thumbnail": "https://retrogameloop.github.io/images/767.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-cute-tiles",
+    "thumbnail": "https://retrogameloop.github.io/images/768.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "hole-eat-grow-attack",
+    "thumbnail": "https://retrogameloop.github.io/images/769.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "block-team-deathmatch",
+    "thumbnail": "https://retrogameloop.github.io/images/770.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "moto-cabbie-simulator",
+    "thumbnail": "https://retrogameloop.github.io/images/771.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "color-water-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/772.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "asmr-makeover-makeup-studio",
+    "thumbnail": "https://retrogameloop.github.io/images/773.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "jinn-dash",
+    "thumbnail": "https://retrogameloop.github.io/images/774.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "belote-3in1",
+    "thumbnail": "https://retrogameloop.github.io/images/775.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "girlfriend-from-hell",
+    "thumbnail": "https://retrogameloop.github.io/images/776.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "nuts-bolts-screw-glass",
+    "thumbnail": "https://retrogameloop.github.io/images/777.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zindex",
+    "thumbnail": "https://retrogameloop.github.io/images/778.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "dice-fusion",
+    "thumbnail": "https://retrogameloop.github.io/images/779.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "radical-rappelling",
+    "thumbnail": "https://retrogameloop.github.io/images/780.webp",
+    "genre": "Sports, Strategy"
+  },
+  {
+    "id": "italian-brainrot-drag-merge-puzzle",
+    "thumbnail": "https://retrogameloop.github.io/images/781.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "oil-tanker-transport-truck",
+    "thumbnail": "https://retrogameloop.github.io/images/782.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "kick-the-noobik-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/783.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-cut-cleaner",
+    "thumbnail": "https://retrogameloop.github.io/images/784.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "spaces-solitaire",
+    "thumbnail": "https://retrogameloop.github.io/images/785.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "body-care-simulator",
+    "thumbnail": "https://retrogameloop.github.io/images/786.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "idle-archeology",
+    "thumbnail": "https://retrogameloop.github.io/images/787.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "flight-pilot-airplane-games-24",
+    "thumbnail": "https://retrogameloop.github.io/images/788.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "happy-bubbles",
+    "thumbnail": "https://retrogameloop.github.io/images/789.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "taxi-simulator-2024",
+    "thumbnail": "https://retrogameloop.github.io/images/790.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "protect-my-dog-3",
+    "thumbnail": "https://retrogameloop.github.io/images/791.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ancient-wars-caesar",
+    "thumbnail": "https://retrogameloop.github.io/images/792.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "sea-match",
+    "thumbnail": "https://retrogameloop.github.io/images/793.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nesting-dolls",
+    "thumbnail": "https://retrogameloop.github.io/images/794.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "grow-castle-defence",
+    "thumbnail": "https://retrogameloop.github.io/images/795.webp",
+    "genre": "Adventure, Strategy"
+  },
+  {
+    "id": "hoop-rivals",
+    "thumbnail": "https://retrogameloop.github.io/images/796.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "infantry-attack-battle-3d-fps",
+    "thumbnail": "https://retrogameloop.github.io/images/797.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "avenger-guard",
+    "thumbnail": "https://retrogameloop.github.io/images/798.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "snow-rush-3d",
+    "thumbnail": "https://retrogameloop.github.io/images/799.webp",
+    "genre": "Racing & Driving, Casual"
+  }
+]
