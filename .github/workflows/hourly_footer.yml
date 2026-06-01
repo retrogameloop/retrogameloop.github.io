@@ -2,7 +2,7 @@ name: Cronjob
 
 on:
   schedule:
-    - cron: '0 * * * *' # Triggers automatically at the start of every hour
+    - cron: '29 * * * *' # Triggers automatically at the start of every hour
   workflow_dispatch:      # Provides a manual "Run workflow" button in GitHub
 
 jobs:
